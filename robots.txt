@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haltung.amainfo.at/sitemap.xml
