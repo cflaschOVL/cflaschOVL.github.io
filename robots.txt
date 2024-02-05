@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haltung.amainfo.at/sitemap.xml
+Sitemap: https://amacademy.amainfo.at/sitemap.xml
