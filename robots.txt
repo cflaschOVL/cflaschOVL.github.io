@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://edlinger-hno.at/sitemap.xml
+Sitemap: https://metropolitan.at/sitemap.xml
